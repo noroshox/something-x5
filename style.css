@@ -115,3 +115,11 @@ span{
 .social-links a:hover{
     color: #ff4321;
 }
+#preloader{
+    background: #000 url(https://static.wixstatic.com/media/68315b_30dbad1140034a3da3c59278654e1655~mv2.gif) no-repeat center center;
+    background-size: 3%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
